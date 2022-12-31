@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'objectifyIt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D5E83FEEC25470E8D65C4DD7D6CE8B7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99FC1F99927A47B88F1F695F94A7C280 }}
